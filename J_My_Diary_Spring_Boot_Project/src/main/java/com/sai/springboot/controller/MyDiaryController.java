@@ -18,7 +18,7 @@ import com.sai.springboot.service.UsersService;
 import jakarta.servlet.http.HttpSession;
 
 @Controller
-public class HomeController {
+public class MyDiaryController {
 
 	@Autowired
 	HttpSession session;
